@@ -111,7 +111,7 @@ See the [Sample Sequential Workflow config](https://github.com/CircleCI-Public/c
 
 The following example shows a workflow with four sequential jobs that use shared environment variables. 
 
-The following `config.yml` snippet is an example of a sequntial job workflow configured to use the resources defined in the `org-global` context:
+The following `config.yml` snippet is an example of a sequential job workflow configured to use the resources defined in the `org-global` context:
 
 ```
 workflows:
